@@ -5,6 +5,7 @@ extern FileSystem myFileSystem;
 extern memoryManager myMemoryManager;
 extern DeviceSystem myDeviceSystem;
 extern Disk myDisk;
+
 OutputWidget::OutputWidget(OutputType type)
 {
 
